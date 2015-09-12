@@ -1,0 +1,10 @@
+{
+	"name": "customLogin",
+	"html": "customLogin.html",
+	"scripts": [
+		"customLogin.js"
+	],
+	"styles": [
+		"customLogin.css"
+	]
+}

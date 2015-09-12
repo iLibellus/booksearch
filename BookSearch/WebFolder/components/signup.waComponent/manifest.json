@@ -1,0 +1,10 @@
+{
+	"name": "signup",
+	"html": "signup.html",
+	"scripts": [
+		"signup.js"
+	],
+	"styles": [
+		"signup.css"
+	]
+}
